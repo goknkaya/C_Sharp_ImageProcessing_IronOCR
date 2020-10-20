@@ -1,0 +1,11 @@
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\IronOcr.dll
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\IronOcr.xml
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+c:\users\gokha\documents\visual studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
